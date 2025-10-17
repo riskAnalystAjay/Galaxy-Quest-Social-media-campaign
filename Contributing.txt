@@ -1,0 +1,25 @@
+ 💡 Contributing to Galaxy Quest — Social Media Campaign
+
+Thank you for showing interest in contributing to **Galaxy Quest**!  
+Your ideas and creativity can make this campaign even better.  
+ 
+ 🪄 How You Can Contribute
+- Suggest new social media post ideas  
+- Share better hashtag combinations  
+- Recommend creative Canva layouts  
+- Improve documentation or visuals    
+
+ 🧭 Steps to Contribute
+1. Fork the repository  
+2. Create a new branch (`feature-new-post`, `update-hashtags`, etc.)  
+3. Make your updates  
+4. Commit your changes  
+5. Submit a pull request for review  
+
+ 💬 Code of Conduct
+Please follow the [Code of Conduct](./CODE_OF_CONDUCT.md) to ensure a friendly collaboration environment.
+
+---
+
+✨ Created by Ajay Chitran
+For collaboration, feedback, or ideas, feel free to connect!
